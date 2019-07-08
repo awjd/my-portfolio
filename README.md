@@ -1,2 +1,4 @@
-# my-portfolio
-This is my online portfolio
+# Alex Duncan's Portfolio   
+
+This is my professional portfolio. It uses AWS and ReactJS.
+ 
