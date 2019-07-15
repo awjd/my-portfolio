@@ -5,11 +5,9 @@ phases:
     commands:
       - echo Nothing to do yet
 artifacts:
-  - index.html
-  - favicon.ico
-  - resume_alex_duncan.pdf
-  - main.css
-  - example1.png
-  - example2.png
-  - example3.png
-  - readme.md
+  files:
+    - index.html
+    - favicon.ico
+    - resume_alex_duncan.pdf
+    - styles/main.css
+    - images/*
