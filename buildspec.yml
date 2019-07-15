@@ -7,7 +7,6 @@ phases:
 artifacts:
   - index.html
   - favicon.ico
-  - resume alex duncan.pdf
+  - resume_alex_duncan.pdf
   - styles/main.css
   - images/*
-  
