@@ -8,6 +8,6 @@ artifacts:
   files:
     - index.html
     - favicon.ico
-    - resume_alex_duncan.pdf
+    - resumealexduncan.pdf
     - styles/main.css
     - images/*
