@@ -1,0 +1,32 @@
+{
+  "name": "my-portfolio",
+  "version": "1.0.0",
+  "description": "My Portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "webpack": "webpack",
+    "webpack-watch": "webpack --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/awjd/my-portfolio.git"
+  },
+  "author": "acgawjd@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/awjd/my-portfolio/issues"
+  },
+  "homepage": "https://github.com/awjd/my-portfolio#readme",
+  "dependencies": {
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.5",
+    "babel-preset-react": "^6.24.1",
+    "webpack": "^4.37.0",
+    "webpack-cli": "^3.3.6"
+  }
+}
